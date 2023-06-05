@@ -1,4 +1,2 @@
 "I wish Attack-On-Titan Last Episode Dropped Tonight" -- Definately Wei not Nisarg
 
-
-GIT_COMMITTER_NAME="Wei" GIT_COMMITTER_EMAIL="weionstream@gmail.com" git commit --author="Wei <weionstream@gmail.com>" -m "We want AOT Final Episode"
